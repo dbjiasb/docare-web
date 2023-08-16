@@ -4533,8 +4533,8 @@ dc_utils
 external_package
 internal_package
 jce_module
+ns
 wl_log
-wl_net_service
 
 TODO: Add your license here.
 
